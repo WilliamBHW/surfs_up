@@ -30,7 +30,7 @@ In addition, there is a function that is responsible for retriving min, max and 
 ![Claim_Stat](https://github.com/WilliamBHW/surfs_up/blob/main/Resources/Claim_Stat.png)
 <br>
 
-In the ```climate_analysis.ipynb```, it is able to retrieve percipitation information of given time interval and create graphs for analysis. With given statistics, it is possible to predict how it would like to build a shop and popular areas in the location to attact visitors for purchases.
+In the ```climate_analysis.ipynb```, it is able to retrieve percipitation information of given time interval and create graphs for analysis. With given statistics, it is possible to predict how it would like to build a shop and areas in the location to attract visitors for purchases in order to estimate business cycle.
 #### Cliamte Retrial
 ![Climate_retrival](https://github.com/WilliamBHW/surfs_up/blob/main/Resources/2016-2017_Climate.png)
 #### Active Station Retrival
